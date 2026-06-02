@@ -37,20 +37,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sironronron&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sironronron&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sironronron&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 🔭 Currently Working On
 
-- 2GO Group — internal & public API services
-- Channel management systems (Channels v2, Channels Internal API)
+- 2GO Group — internal & public services
 - DevOps automation & CI/CD pipelines
 
 ---
