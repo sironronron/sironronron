@@ -39,7 +39,7 @@
 
 ### 🔭 Currently Working On
 
-- (3rdLoop Solutions)[https://3rdloopsolutions.com]
+- (https://3rdloopsolutions.com)[3rdLoop Solutions]
 - - Batayan
   - PH-First Start-up Foundation
   - Property Real Estate Valuation and Lead Generation
