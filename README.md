@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ron Asistores</h1>
-<h3 align="center">Full-Stack Developer | DevOps</h3>
+<h3 align="center">Full-Stack Developer | DevOps | Product Solutions Manager</h3>
 
 ---
 
@@ -39,7 +39,10 @@
 
 ### 🔭 Currently Working On
 
-- 2GO Group — internal & public services
+- (3rdLoop Solutions)[https://3rdloopsolutions.com]
+- - Batayan
+  - PH-First Start-up Foundation
+  - Property Real Estate Valuation and Lead Generation
 - DevOps automation & CI/CD pipelines
 
 ---
@@ -47,5 +50,5 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:ronron_asistores@2go.com.ph"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ron@3rdloopsolutions.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
